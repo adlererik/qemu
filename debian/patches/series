@@ -1,3 +1,4 @@
+display-virtio-gpu-3d-check-virgl-capabilities-max_size-CVE-2016-10028.patch
 02_kfreebsd.patch
 use-fixed-data-path.patch
 use-data-path.patch
